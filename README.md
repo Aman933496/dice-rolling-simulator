@@ -14,9 +14,12 @@ Option to roll the dice multiple times
 
 📁 Project Structure
 
-Dice-Rolling-Simulator/
+Dice-Rolling-Simulator/ 
+
 │
+
 ├── dice_simulator.py   # Main program file
+
 ├── README.md           # Documentation file
 
 🧠 Code Explanation
