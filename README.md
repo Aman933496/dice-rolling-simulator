@@ -12,7 +12,13 @@ User-friendly and interactive console interface
 
 Option to roll the dice multiple times
 
-(Optional) Displays dice faces using Unicode/ASCII art
+📁 Project Structure
+Dice-Rolling-Simulator/
+│
+├── dice_simulator.py   # Main program file
+├── README.md           # Documentation file
+
+🧠 Code Explanation
 | Line / Part                         | Explanation                                                                   |
 | ----------------------------------- | ----------------------------------------------------------------------------- |
 | `import random`                     | Imports Python's built-in random module to generate random numbers.           |
