@@ -13,6 +13,7 @@ User-friendly and interactive console interface
 Option to roll the dice multiple times
 
 📁 Project Structure
+
 Dice-Rolling-Simulator/
 │
 ├── dice_simulator.py   # Main program file
